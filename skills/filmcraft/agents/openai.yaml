@@ -1,0 +1,4 @@
+interface:
+  display_name: "Filmcraft"
+  short_description: "Research, write, storyboard and edit films"
+  default_prompt: "Use $filmcraft to turn my topic and available material into a researched, recording-ready script and shot plan."

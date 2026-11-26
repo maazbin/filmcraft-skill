@@ -1,0 +1,11 @@
+# Picture and sound
+
+Start every shot at an identifiable place. A map needs an overview before a pin; a screen demo needs enough interface to identify the product before enlarging one control. Write the start frame, end frame, focus target, triggering word or action, and the duration of the hold after it lands. “Cinematic zoom” leaves all five decisions to somebody else.
+
+For diagrams, keep one persistent object while the others change. For a fold, keep the crease fixed and track the corner. For a chart, keep the axis, units and scale fixed unless their change is the lesson. Give viewers enough time to locate the mark after the voice names it. On an animated character, move the eyes to the new target before the hand reaches it; let the next cut answer what the character saw. Review the silhouettes for intent and the cut for screen direction.
+
+Use a wide view for geography, a close-up for a new fact, a reaction for consequence. A static shot can carry a changing soundscape. Log a deliberate silence as an event: what just happened, what can the audience now hear, and what sound ends the pause? A music change can reveal a decision or mark elapsed time. Keep stems until the mix is approved. Before licensing or composing, list mood, tempo range, instruments, cue points and ending. Use references for qualities; compose original themes or license a recording.
+
+For a presenter plus demonstration, frame the presenter and evidence in separate regions only for the intended interval. Keep mouth and dialogue together. A small bottom panel is one option for a vertical reel. In a documentary, the subject can remain off camera while their recorded account carries an observational sequence. A generated source-like shot needs an illustration or reconstruction label where its status could be mistaken.
+
+Review three exports: sound only for clarity, picture only for staging and titles, then the final mix and picture together. Check the first and last frame of transitions, the loudest word against the music, and the smallest text on the target display. Use log or meter readings for technical errors; record which passages were actually watched or heard. Measure duration from the exported file.

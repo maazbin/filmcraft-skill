@@ -1,0 +1,74 @@
+{
+  "title": "Why page sixteen sits beside page one",
+  "fps": 24,
+  "size": [
+    960,
+    540
+  ],
+  "sources": {
+    "B1": "Adobe InDesign, Booklet types, section 2-up Saddle Stitch. https://helpx.adobe.com/indesign/desktop/print/print-booklets/booklet-types.html",
+    "D1": "Original worked example of the outside sheet of a 16-page left-bound booklet. Inspect the fold in the generated schematic. Artwork and sound generated for this example."
+  },
+  "scenes": [
+    {
+      "id": "proof",
+      "seconds": 5,
+      "basis": "documented",
+      "voice": "Page sixteen, beside page one. Would you send this proof back?",
+      "picture": "Outside sheet, flat on the table. The two page numbers come into view.",
+      "change": "Viewer sees the pair that appears wrong.",
+      "sound": "Soft paper slide.",
+      "evidence": [
+        "B1",
+        "D1"
+      ],
+      "file": "media/proof.mp4",
+      "audio": "media/proof.wav"
+    },
+    {
+      "id": "fold",
+      "seconds": 6,
+      "basis": "documented",
+      "voice": "Watch the crease. One stays on the front. Sixteen folds behind it, onto the back.",
+      "picture": "Keep the centre crease fixed as the left panel moves behind the right cover.",
+      "change": "The flat print layout becomes a folded booklet.",
+      "sound": "A brush of paper, then silence on the reveal.",
+      "evidence": [
+        "B1",
+        "D1"
+      ],
+      "file": "media/fold.mp4",
+      "audio": "media/fold.wav"
+    },
+    {
+      "id": "open",
+      "seconds": 5,
+      "basis": "documented",
+      "voice": "Open the booklet in the middle. Here, eight and nine really do belong side by side.",
+      "picture": "Cut to the open centre spread. Reveal 8, then 9.",
+      "change": "Reading order is visible at the centre.",
+      "sound": "Quiet movement at the page turn.",
+      "evidence": [
+        "B1",
+        "D1"
+      ],
+      "file": "media/open.mp4",
+      "audio": "media/open.wav"
+    },
+    {
+      "id": "end",
+      "seconds": 5,
+      "basis": "documented",
+      "voice": "Now unfold the outside sheet again. Those two numbers were in the right place all along.",
+      "picture": "Return to exactly the initial composition, now with front and back cover labels.",
+      "change": "Viewer can identify both covers on the proof.",
+      "sound": "A soft paper tap at rest.",
+      "evidence": [
+        "B1",
+        "D1"
+      ],
+      "file": "media/end.mp4",
+      "audio": "media/end.wav"
+    }
+  ]
+}
