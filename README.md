@@ -1,5 +1,7 @@
 # Filmcraft
 
+**Filmcraft is now part of [Creator Runbook](https://github.com/maazbin/creator-runbook).** Install Creator Runbook for new productions. It includes the standalone writing prompt, documentary exercises and original booklet animation. Existing Filmcraft projects can use their current `film.json` and media folders. [Open an existing project in Creator Runbook](https://github.com/maazbin/creator-runbook/blob/main/skills/creator-runbook/references/filmcraft-plans.md).
+
 Write the words a performer can say and the shots an editor can actually make. Filmcraft is a model-independent skill for short films, longer documentaries, animated stories and explainers. It works as a plain prompt, an installable agent skill, or a local Python/FFmpeg production workflow.
 
 **Try the [21-second animated booklet film](media/booklet-study.mp4)** · **Read [a complete five-minute documentary script](skills/filmcraft/examples/documentary/the-corner.md)**
